@@ -1,0 +1,13 @@
+name: 'AJAX Test'
+type: module
+description: 'Support module for AJAX framework tests.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - contact
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

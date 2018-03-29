@@ -1,0 +1,10 @@
+name: 'Update test base theme'
+type: theme
+description: 'Test theme which acts as a base theme for other test subthemes.'
+version: VERSION
+core: 8.x
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

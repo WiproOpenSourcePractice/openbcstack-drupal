@@ -1,0 +1,13 @@
+name: Link
+type: module
+description: 'Provides a simple link field type.'
+core: 8.x
+package: Field types
+version: VERSION
+dependencies:
+  - field
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

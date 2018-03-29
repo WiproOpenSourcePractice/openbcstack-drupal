@@ -1,0 +1,11 @@
+name: 'Theme test with invalid base theme'
+type: theme
+description: 'Test theme which has a non-existent base theme.'
+version: VERSION
+core: 8.x
+base theme: not_real_test_basetheme
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

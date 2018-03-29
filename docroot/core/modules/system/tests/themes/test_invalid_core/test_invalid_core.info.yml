@@ -1,0 +1,10 @@
+name: 'Theme test with invalid core version'
+type: theme
+description: 'Test theme which has an invalid core version.'
+version: VERSION
+core: 7.x
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

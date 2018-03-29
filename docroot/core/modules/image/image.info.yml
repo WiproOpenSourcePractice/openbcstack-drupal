@@ -1,0 +1,14 @@
+name: Image
+type: module
+description: 'Defines an image field type and provides image manipulation tools.'
+package: Field types
+version: VERSION
+core: 8.x
+dependencies:
+  - file
+configure: entity.image_style.collection
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

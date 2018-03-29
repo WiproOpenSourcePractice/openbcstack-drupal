@@ -1,0 +1,9 @@
+type: theme
+core: 8.x
+name: 'Test theme with a too long name'
+version: VERSION
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

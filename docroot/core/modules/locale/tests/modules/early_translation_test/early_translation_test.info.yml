@@ -1,0 +1,12 @@
+name: 'Early translation test'
+type: module
+description: 'Support module for testing early bootstrap getting of annotations with translations.'
+core: 8.x
+package: Testing
+version: VERSION
+
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

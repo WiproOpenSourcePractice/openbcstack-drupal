@@ -1,0 +1,13 @@
+name: 'Theme test with missing content region'
+type: theme
+description: 'Test theme which has a non-existent content region.'
+version: VERSION
+core: 8.x
+
+regions:
+  - foo: Foo
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

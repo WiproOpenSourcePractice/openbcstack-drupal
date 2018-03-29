@@ -1,0 +1,14 @@
+name: Book
+type: module
+description: 'Allows users to create and organize related content in an outline.'
+package: Core
+version: VERSION
+core: 8.x
+dependencies:
+  - node
+configure: book.settings
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722
