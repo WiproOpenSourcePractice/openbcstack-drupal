@@ -1,0 +1,13 @@
+name: Link test base field
+description: Tests link field as an optional base field
+type: module
+core: 8.x
+hidden: true
+dependencies:
+  - link
+  - entity_test
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

@@ -1,0 +1,14 @@
+name: 'User test views'
+type: module
+description: 'Provides default views for views user tests.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - user
+  - views
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

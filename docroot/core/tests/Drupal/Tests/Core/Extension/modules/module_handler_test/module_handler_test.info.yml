@@ -1,0 +1,11 @@
+name: module handler test module
+type: module
+description: 'Test module enabled by default in module handler unit tests.'
+package: Testing
+version: VERSION
+core: 8.x
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

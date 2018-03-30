@@ -1,0 +1,11 @@
+name: 'AJAX form test mock module'
+type: module
+description: 'Test for AJAX form calls.'
+core: 8.x
+package: Testing
+version: VERSION
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

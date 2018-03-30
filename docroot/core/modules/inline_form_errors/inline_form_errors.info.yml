@@ -1,0 +1,11 @@
+type: module
+name: Inline Form Errors
+description: 'Places error messages adjacent to form inputs, for improved usability and accessibility.'
+version: VERSION
+core: 8.x
+package: Core
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

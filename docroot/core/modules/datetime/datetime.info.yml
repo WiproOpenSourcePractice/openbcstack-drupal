@@ -1,0 +1,13 @@
+name: Datetime
+type: module
+description: Defines datetime form elements and a datetime field type.
+package: Field types
+version: VERSION
+core: 8.x
+dependencies:
+  - field
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

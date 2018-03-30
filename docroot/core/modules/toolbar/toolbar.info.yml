@@ -1,0 +1,13 @@
+name: Toolbar
+type: module
+description: 'Provides a toolbar that shows the top-level administration menu items and links from other modules.'
+core: 8.x
+package: Core
+version: VERSION
+dependencies:
+  - breakpoint
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

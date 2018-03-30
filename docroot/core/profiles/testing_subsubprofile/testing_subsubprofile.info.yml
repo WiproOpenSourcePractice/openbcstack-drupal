@@ -1,0 +1,19 @@
+name: Testing SubSubProfile
+type: profile
+description: 'Profile for testing deep profile inheritance.'
+version: VERSION
+core: 8.x
+hidden: true
+
+base profile:
+  name: testing_inherited
+  excluded_dependencies:
+    - config
+
+dependencies:
+  - page_cache
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

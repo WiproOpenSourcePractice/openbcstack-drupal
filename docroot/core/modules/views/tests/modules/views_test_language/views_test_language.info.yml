@@ -1,0 +1,14 @@
+name: 'Views Test Language'
+type: module
+description: 'Test module for Views.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - views
+  - language
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

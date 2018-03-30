@@ -1,0 +1,14 @@
+name: Comment
+type: module
+description: 'Allows users to comment on and discuss published content.'
+package: Core
+version: VERSION
+core: 8.x
+dependencies:
+  - text
+configure: comment.admin
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

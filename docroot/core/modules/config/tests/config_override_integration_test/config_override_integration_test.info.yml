@@ -1,0 +1,14 @@
+name: 'Configuration override integration test'
+type: module
+package: Testing
+version: VERSION
+core: 8.x
+
+dependencies:
+  - block
+  - block_test
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

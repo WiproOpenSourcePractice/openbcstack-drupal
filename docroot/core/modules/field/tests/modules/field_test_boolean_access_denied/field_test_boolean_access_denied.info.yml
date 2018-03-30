@@ -1,0 +1,13 @@
+name: 'Boolean field Test'
+type: module
+description: 'Support module for the field and entity display tests.'
+core: 8.x
+package: Testing
+version: VERSION
+dependencies:
+  - field
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

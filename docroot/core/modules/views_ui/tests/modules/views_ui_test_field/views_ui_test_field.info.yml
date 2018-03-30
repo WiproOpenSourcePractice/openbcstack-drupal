@@ -1,0 +1,13 @@
+name: 'Views test field'
+type: module
+description: 'Add custom global field for testing purposes.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - views_ui
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

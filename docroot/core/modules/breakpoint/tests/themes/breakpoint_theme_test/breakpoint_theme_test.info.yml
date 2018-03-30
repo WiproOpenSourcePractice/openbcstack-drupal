@@ -1,0 +1,11 @@
+name: 'Breakpoint test theme'
+type: theme
+description: 'Test theme for breakpoint.'
+version: VERSION
+core: 8.x
+base theme: bartik
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

@@ -1,0 +1,11 @@
+name: 'Twig registry loader test theme'
+type: theme
+base theme: test_theme_twig_registry_loader
+description: 'Support module for Twig registry loader testing.'
+version: VERSION
+core: 8.x
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

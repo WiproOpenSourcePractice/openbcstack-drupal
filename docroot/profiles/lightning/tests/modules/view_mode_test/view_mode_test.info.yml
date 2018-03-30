@@ -1,0 +1,15 @@
+name: 5e0f7830
+# core: 8.x
+type: module
+package: Lightning
+hidden: true
+dependencies:
+  - lightning_core
+  - node
+# version: '8.x-3.101'
+
+# Information added by Drupal.org packaging script on 2018-03-29
+version: '8.x-3.101'
+core: '8.x'
+project: 'lightning'
+datestamp: 1522287188

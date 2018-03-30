@@ -1,0 +1,12 @@
+name: 'Entity Reference'
+type: module
+description: 'Deprecated. All the functionality has been moved to Core.'
+package: Field types
+version: VERSION
+core: 8.x
+hidden: true
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

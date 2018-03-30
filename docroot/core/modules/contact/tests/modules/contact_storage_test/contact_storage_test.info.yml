@@ -1,0 +1,14 @@
+name: 'Contact test storage'
+type: module
+description: 'Tests that contact messages can be stored.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - contact
+  - user
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

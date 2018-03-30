@@ -1,0 +1,14 @@
+name: Options
+type: module
+description: 'Defines selection, check box and radio button widgets for text and numeric fields.'
+package: Field types
+version: VERSION
+core: 8.x
+dependencies:
+  - field
+  - text
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

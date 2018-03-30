@@ -1,0 +1,14 @@
+name: 'Configuration Translation'
+type: module
+description: 'Provides a translation interface for configuration.'
+package: Multilingual
+version: VERSION
+core: 8.x
+configure: config_translation.mapper_list
+dependencies:
+  - locale
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

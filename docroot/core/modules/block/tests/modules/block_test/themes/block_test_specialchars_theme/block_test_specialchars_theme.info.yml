@@ -1,0 +1,12 @@
+name: '<"Cat" & ''Mouse''>'
+type: theme
+description: 'Theme for testing special characters in block admin.'
+core: 8.x
+regions:
+  content: Content
+  help: Help
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722

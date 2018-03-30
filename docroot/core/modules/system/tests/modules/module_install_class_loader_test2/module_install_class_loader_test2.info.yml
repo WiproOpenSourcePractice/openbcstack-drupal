@@ -1,0 +1,13 @@
+name: 'Module install class loader test2'
+description: 'Support module for tests that the class loader behaves as expected during module install.'
+type: module
+package: Testing
+core: 8.x
+version: VERSION
+dependencies:
+  - module_install_class_loader_test1
+
+# Information added by drush on 2018-03-27
+version: '8.5.1+0-dev'
+project: 'drupal'
+datestamp: 1522144722
